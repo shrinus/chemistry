@@ -2,7 +2,9 @@ import numpy as np
 
 
 def main():
-    print("Hello World")
+    eq = input("enter the equation to be balanced ")
+
+    print(eq)
 
 
 if __name__ == "__main__":
